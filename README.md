@@ -1,5 +1,7 @@
+# SOME PROJECTS ARE NOT YET READY TO BE PUBLIC #
+
 - 👋 Hi, I’m @roylington, my name is Vojtěch Kováčik and this pregenerated README is good enough.
-- 👀 I’m interested in ... graphic design, image processing, programming, music, games, art
+- 👀 I’m interested in ... graphic design, image processing, programming, music, games
 - 🌱 I’m currently learning ... programming, algorithms and datastructures, sql and github I guess?
 - 📫 How to reach me ... vojtakovacik@seznam.cz
 
